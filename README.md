@@ -1,10 +1,11 @@
 # f-strings
-```r
+```
+a = 5
 f"This is an f-string. a's value is {a}. Doubling the value of a gives {2*a}."
 ```
 "This is an f-string. a's value is 5. Doubling the value of a gives 10."
 # if else
-```r
+```
 if condition1:
     statement1 for True Condition1
 elif condition2 :
@@ -15,7 +16,7 @@ else:
     statements for Each Condition False
 ```
 # while迴圈
-```r
+```
 while 條件:
     # 執行迴圈內的程式碼
 ```
