@@ -14,7 +14,7 @@ elif condition3 :
 else:
     statements for Each Condition False
 ```
-# 
+# while迴圈
 ```r
 while 條件:
     # 執行迴圈內的程式碼
