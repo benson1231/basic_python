@@ -25,3 +25,8 @@ while 條件:
 for 變數 in 集合:
     # 執行迴圈內的程式碼
 ```
+# function
+```python
+def function_name():
+  # functions tasks go here
+```
