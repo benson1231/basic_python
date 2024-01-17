@@ -27,6 +27,9 @@ for 變數 in 集合:
 ```
 # function
 ```python
-def function_name():
+def function_name(parameter):
   # functions tasks go here
+
+function_name(argument)
 ```
+
