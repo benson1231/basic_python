@@ -31,5 +31,7 @@ def function_name(parameter):
   # functions tasks go here
 
 function_name(argument)
+# The parameter is the name defined in the parenthesis of the function and can be used in the function body.
+# The argument is the data that is passed in when we call the function, which is then assigned to the parameter name.
 ```
 
