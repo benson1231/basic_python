@@ -1,3 +1,26 @@
+### Anaconda prompt管理模組
+# 查詢模組列表
+```bash
+pip list
+conda list
+```
+# 安裝模組
+```bash
+pip install 模組名稱
+conda install 模組名稱
+```
+# 更新模組
+```bash
+pip install -U 模組名稱
+conda update 模組名稱
+```
+# 移除模組
+```bash
+pip uninstall 模組名稱
+conda remove 模組名稱
+```
+
+
 # f-strings
 ```python
 a = 5
