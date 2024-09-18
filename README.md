@@ -2,21 +2,29 @@
 # 查詢模組列表
 ```bash
 pip list
+```
+```bash
 conda list
 ```
 # 安裝模組
 ```bash
 pip install 模組名稱
+```
+```bash
 conda install 模組名稱
 ```
 # 更新模組
 ```bash
 pip install -U 模組名稱
+```
+```bash
 conda update 模組名稱
 ```
 # 移除模組
 ```bash
 pip uninstall 模組名稱
+```
+```bash
 conda remove 模組名稱
 ```
 
