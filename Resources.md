@@ -1,3 +1,5 @@
+# miniconda
+https://repo.anaconda.com/miniconda/
 ### https://www.codecademy.com/resources/docs/python
 ### https://docs.python.org/3/tutorial/
 ### https://www.python.org/about/gettingstarted/
